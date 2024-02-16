@@ -7,7 +7,7 @@ npm install
 ```
 
 ```
-LLAMA_SERVER_URL=https://huggingface.co/spaces/matthoffner/ggml-coding-cpu/completions npm run dev
+LLAMA_SERVER_URL=https://huggingface.co/spaces/matthoffner/ggml-coding-cpu/completion npm run dev
 ```
 
 `LLAMA_SERVER_URL` defaults to `http://127.0.0.1:8080/completion`
